@@ -24,7 +24,7 @@ Before running this Terraform project, ensure you have:
 1. **Clone this repository:**
 
     ```bash
-    git clone https://gitlab.com/razielsa/Terraform-AWS-Deploy
+    git clone https://gitlab.com/razielsa/Terraform-AWS-Deploy](https://github.com/RazielSa/Terraform-AWS-Deploy.git
     ```
 
 2. **Navigate to the project directory and initialize Terraform:**
