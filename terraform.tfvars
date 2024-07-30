@@ -1,0 +1,1 @@
+subnet_prefix = [{ cidr_block = "10.0.4.0/24", name = "prod_subnet" }, { cidr_block = "10.0.5.0/24", name = "dev_subnet" }]
